@@ -1,15 +1,15 @@
 <!-- ═══════════════ BANNER (animated terminal, custom) ═══════════════ -->
-<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/banner.svg" alt="Rahul Vishnuvardhana — Machine Learning Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/rahulvishnuvardhana/rahulvishnuvardhana/main/assets/banner.svg" alt="Rahul Vishnuvardhana — Machine Learning Engineer" />
 
 <div align="center">
 
-[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-portfolio.svg" alt="Portfolio" />](https://rahulvishnuvardhana.vercel.app)
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvardhana/rahulvishnuvardhana/main/assets/btn-portfolio.svg" alt="Portfolio" />](https://rahulvishnuvardhana.vercel.app)
 &nbsp;
-[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/rahul-vishnuvardhana-197890266/)
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvardhana/rahulvishnuvardhana/main/assets/btn-linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/rahulvishnuvardhana)
 &nbsp;
-[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-resume.svg" alt="Résumé" />](https://rahulvishnuvardhana.vercel.app/resume.pdf)
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvardhana/rahulvishnuvardhana/main/assets/btn-resume.svg" alt="Résumé" />](https://rahulvishnuvardhana.vercel.app/resume.pdf)
 &nbsp;
-[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/btn-email.svg" alt="Email" />](mailto:vishnuvardhana.r@northeastern.edu)
+[<img height="34" src="https://raw.githubusercontent.com/rahulvishnuvardhana/rahulvishnuvardhana/main/assets/btn-email.svg" alt="Email" />](mailto:vishnuvardhana.r@northeastern.edu)
 
 `● Open to co-op & full-time` &nbsp;·&nbsp; `📍 Boston, MA` &nbsp;·&nbsp; `🎓 MS ECE @ Northeastern (Machine Intelligence)`
 
@@ -19,13 +19,13 @@ Hi, I'm Rahul. I'm a machine learning engineer who enjoys turning messy, real wo
 
 ## ▍ Systems in Production
 
-**🟥 LEO API Intelligence** &nbsp; · &nbsp; [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/Leo_Api_Intelligence) &nbsp; · &nbsp; [Live demo](https://leo-api-intelligence.onrender.com)
+**🟥 LEO API Intelligence** &nbsp; · &nbsp; [Repo](https://github.com/rahulvishnuvardhana/Leo_Api_Intelligence) &nbsp; · &nbsp; [Live demo](https://leo-api-intelligence.onrender.com)
 Built to catch banking API failures before they cascade. A multi horizon bidirectional LSTM with attention reads API telemetry and predicts failures early, so operations teams can act ahead of time instead of reacting after an outage.
 
-**🟥 JusTrace** &nbsp; · &nbsp; [Overview](https://rahulvishnuvardhana.vercel.app/#projects)
-Built to spot fraud and anomalies the moment they happen. A Kafka pipeline scores every transaction in real time with three models running in parallel (River online learners, an Isolation Forest, and an LSTM autoencoder), flagging outliers as they stream in.
+**🟥 TraceOp** &nbsp; · &nbsp; [Live app](https://v0-traceop.vercel.app)
+Built to make the research, teaching, and co-op hunt honest. An AI copilot that finds real roles and faculty from public sources, scores fit, and drafts outreach and tailored resumes grounded only in each user's own profile, flagging gaps instead of inventing them.
 
-**🟥 RNN vs. Transformer** &nbsp; · &nbsp; [Repo](https://github.com/rahulvishnuvaradhana32-ctrl/robot-trajectory-rnn-vs-transformer)
+**🟥 RNN vs. Transformer** &nbsp; · &nbsp; [Repo](https://github.com/rahulvishnuvardhana/robot-trajectory-rnn-vs-transformer)
 Built to answer a practical question: which architecture predicts robot motion better when data is limited. I benchmarked a recurrent baseline against a physics informed Transformer on the NCLT dataset and measured the real trade offs between them.
 
 **🟥 Grain Quality Assessment** &nbsp; 📄 &nbsp; · &nbsp; [Paper](http://ijetms.in/Vol-6-issue-4/Vol-6-Issue-4-47.pdf)
@@ -48,7 +48,7 @@ Built to grade grain quality automatically. A classical computer vision pipeline
 
 <div align="center">
 
-<img width="420" src="https://raw.githubusercontent.com/rahulvishnuvaradhana32-ctrl/rahulvishnuvaradhana32-ctrl/main/assets/month-grid.svg" alt="this month's contribution activity" />
+<img width="420" src="https://raw.githubusercontent.com/rahulvishnuvardhana/rahulvishnuvardhana/main/assets/month-grid.svg" alt="this month's contribution activity" />
 
 </div>
 
@@ -60,7 +60,7 @@ Built to grade grain quality automatically. A classical computer vision pipeline
 
 **What my days look like.** Training and debugging sequence models, wiring up data pipelines, and making sure whatever I ship can be monitored and trusted once it is live.
 
-**Currently building.** JusTrace, a real time anomaly detection system for high frequency transaction streams.
+**Currently building.** TraceOp, an AI copilot for the Northeastern RA/TA and co-op hunt that never fabricates.
 
 **Focused on.** Applied ML for reliability, MLOps and clean model deployment, and bringing LLM and RAG techniques into production workflows.
 
